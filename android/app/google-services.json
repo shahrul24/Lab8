@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727256814790",
+    "project_id": "photoalbumapp-a3924",
+    "storage_bucket": "photoalbumapp-a3924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727256814790:android:e75a0f7605377aa37773c7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_biometric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727256814790-71m3pk1khc02b6lnv48e810fg8v7k7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRP4gu_gJ3q1LiZ0BvpHKNz0Oa7e1XGpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727256814790-71m3pk1khc02b6lnv48e810fg8v7k7pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
